@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <name>riaodo_bringup</name>
+  <version>0.1.0</version>
+  <description> This package includes bringup files of the RIA-ODO </description>
+  <maintainer email="chenlinkai@gaitechrobotics.com"> Leo Chen </maintainer>
+  <license>TODO</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+  </export>
+</package>
